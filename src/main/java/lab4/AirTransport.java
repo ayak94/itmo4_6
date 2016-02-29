@@ -1,9 +1,6 @@
 package lab4;
 
-/**
- * Created by olgaoskina
- * 14/12/15
- */
+
 public abstract class AirTransport extends Transport {
     protected int wingspan; // размах крыльев
     protected long liftingCapacity; // грузоподъемность

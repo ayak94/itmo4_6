@@ -1,9 +1,6 @@
 package lab4;
 
-/**
- * Created by olgaoskina
- * 14/12/15
- */
+
 public abstract class LandTransport extends Transport {
     final protected int power;
     final protected int quantityOfWheels;

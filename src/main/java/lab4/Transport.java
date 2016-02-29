@@ -1,9 +1,6 @@
 package lab4;
 
-/**
- * Created by olgaoskina
- * 14/12/15
- */
+
 public abstract class Transport {
     protected final String model;
     protected String color;

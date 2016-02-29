@@ -6,10 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 import java.io.IOException;
 import java.io.OutputStream;
 
-/**
- * Created by olgaoskina
- * 09/11/15
- */
+
 public class RandomCsvWriterToStream {
 
     private final CSVReader reader;

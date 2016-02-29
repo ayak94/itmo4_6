@@ -1,9 +1,6 @@
 package lab4;
 
-/**
- * Created by olgaoskina
- * 14/12/15
- */
+
 public class Plane extends AirTransport {
     final protected boolean hasAutopilot;
 

@@ -1,8 +1,5 @@
 package lab4;
-/**
- * Created by olgaoskina
- * 14/12/15
- */
+
 public class Car extends LandTransport {
     final protected String type;
 
